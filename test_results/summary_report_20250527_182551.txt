@@ -1,0 +1,18 @@
+Basic Wave Packet Statistics:
+Average final energy: 26256.8994
+Average uncertainty product: 0.0000
+
+Grid Resolution Statistics:
+Average computation time: 0.0916 seconds
+Average energy conservation: 0.0000
+
+Potential Test Statistics:
+free_particle:
+  Average energy: 15000.0000
+  Energy conservation: 0.0000
+barrier:
+  Average energy: 16539.6293
+  Energy conservation: 0.0293
+double_slit:
+  Average energy: 15458.7089
+  Energy conservation: 0.0080
