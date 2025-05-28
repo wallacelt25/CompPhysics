@@ -75,16 +75,6 @@ This project follows PEP 8 guidelines. To check code style:
 pylint src/
 ```
 
-## Screenshots
-
-![1D Simulation](screenshots/1d_simulation.png)
-![2D Simulation](screenshots/2d_simulation.png)
-
-## Troubleshooting
-
-- If you encounter issues with the UI not displaying, ensure you have `tkinter` installed.
-- For best performance, use Python 3.8+ and ensure all dependencies are up to date.
-
 ## License
 
 This project is licensed under the MIT License.
